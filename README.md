@@ -1,1 +1,1 @@
-# csci2916-myfavlab
+# csci2916-labdemo
